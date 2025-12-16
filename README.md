@@ -48,6 +48,14 @@ This dashboard can be used by:
 - Sales managers to identify growth opportunities  
 - Analysts to derive actionable insights from retail data  
 
+## 📸 Dashboard Screenshots
+
+### Overview Dashboard
+https://github.com/GhanshyamPothu/Nexus-goods-store-with-powerBI-dashboard-/blob/main/Nexusgoodssttoredashboard.png
+
+### Sales Dashboard (2016)
+https://github.com/GhanshyamPothu/Nexus-goods-store-with-powerBI-dashboard-/blob/main/Nexusgoodssttoredashboardof2016.png
+
 ## 👤 Author
 **Ghanshyam Pothu**  
 Aspiring Data Analyst / Business Analyst  
