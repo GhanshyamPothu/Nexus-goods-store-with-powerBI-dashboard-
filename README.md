@@ -51,10 +51,10 @@ This dashboard can be used by:
 ## 📸 Dashboard Screenshots
 
 ### Overview Dashboard
-https://github.com/GhanshyamPothu/Nexus-goods-store-with-powerBI-dashboard-/blob/main/Nexusgoodssttoredashboard.png
+![Overview Dashboard](Nexusgoodsstoredashboard.png)
 
 ### Sales Dashboard (2016)
-https://github.com/GhanshyamPothu/Nexus-goods-store-with-powerBI-dashboard-/blob/main/Nexusgoodssttoredashboardof2016.png
+![Sales Dashboard](Nexusgoodsstoredashboardof2016.png)
 
 ## 👤 Author
 **Ghanshyam Pothu**  
