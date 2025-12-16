@@ -51,10 +51,10 @@ This dashboard can be used by:
 ## 📸 Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](Nexusgoodsstoredashboard.png)
+![Overview Dashboard](Nexusgoodssttoredashboard.png)
 
 ### Sales Dashboard (2016)
-![Sales Dashboard](Nexusgoodsstoredashboardof2016.png)
+![Sales Dashboard](Nexusgoodssttoredashboardof2016.png)
 
 ## 👤 Author
 **Ghanshyam Pothu**  
