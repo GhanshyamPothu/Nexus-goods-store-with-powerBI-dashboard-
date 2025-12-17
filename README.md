@@ -4,6 +4,10 @@
 This project presents an interactive **Power BI dashboard** developed to analyze and monitor the performance of a retail business (Nexus Goods Store).  
 The dashboard provides actionable insights into **sales, customers, inventory, and profitability**, helping stakeholders make data-driven decisions.
 
+## ❓ Business Problem   ← ADD STEP 6 HERE
+The retail business lacked a centralized view of sales, customer behavior, inventory performance, and profitability.  
+Decision-makers needed an interactive dashboard to track KPIs, identify trends, and improve operational and sales strategies.
+
 ## 🎯 Objectives
 - Analyze overall sales and revenue trends
 - Understand customer behavior and segmentation
@@ -11,12 +15,13 @@ The dashboard provides actionable insights into **sales, customers, inventory, a
 - Track profitability and key business KPIs
 - Present insights through clean, interactive visuals
 
-## 📊 Key Insights & Analysis
+## 📊 Key Insights & Business Impact
 - **Sales Analysis:** Revenue trends over time, category-wise and product-wise sales performance  
 - **Customer Insights:** Customer segmentation, repeat vs new customers, purchasing patterns  
 - **Inventory Performance:** Stock movement, fast-moving and slow-moving products  
 - **Profitability:** Gross profit, margin analysis, and contribution by product/category  
 - **KPIs:** Total Sales, Total Profit, Average Order Value, Quantity Sold
+- These insights help stakeholders identify top-performing products, reduce slow-moving inventory, and improve overall profitability.
 
 ## 🛠 Tools & Technologies Used
 - **Power BI** – Data modeling, DAX measures, dashboard creation  
@@ -55,6 +60,13 @@ This dashboard can be used by:
 
 ### Sales Dashboard (2016)
 ![Sales Dashboard](Nexusgoodssttoredashboardof2016.png)
+
+## 🧠 Skills Demonstrated
+- Business analysis and KPI definition
+- Data modeling and relationship building
+- DAX calculations for KPIs and profitability
+- Data visualization and storytelling
+- Stakeholder-focused dashboard design
 
 ## 👤 Author
 **Ghanshyam Pothu**  
