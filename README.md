@@ -4,7 +4,7 @@
 This project presents an interactive **Power BI dashboard** developed to analyze and monitor the performance of a retail business (Nexus Goods Store).  
 The dashboard provides actionable insights into **sales, customers, inventory, and profitability**, helping stakeholders make data-driven decisions.
 
-## ❓ Business Problem   ← ADD STEP 6 HERE
+## ❓ Business Problem
 The retail business lacked a centralized view of sales, customer behavior, inventory performance, and profitability.  
 Decision-makers needed an interactive dashboard to track KPIs, identify trends, and improve operational and sales strategies.
 
