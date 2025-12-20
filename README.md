@@ -1,4 +1,4 @@
-# Nexus Goods Store – Power BI Dashboard
+# Power BI – E-Commerce Sales Performance Dashboard
 
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** developed to analyze and monitor the performance of a retail business (Nexus Goods Store).  
